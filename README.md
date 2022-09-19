@@ -1,10 +1,12 @@
 # Hello world!
 
-My name is _Feline_ and I'm a **Web-Developement Student** 
+My name is _Feline_ and I'm living in Hamburg, Germany.
 
-living in Hamburg, Germany. ![hamburg gif](https://www.flags.de/animierte-flaggen-gif/gifs/Hamburg_240-animierte-flagge-gifs.gif)
+Currently I'm a **Web-Developement Student** 
+@ ![neue fische image](https://wordpress.startsteps.org/wp-content/uploads/2022/02/neuefische@2x.png)
 
-Currently learning:
-- .html
-- .css
-- .js
+I'm looking forward to learn...
+- html
+- css
+- js
+- & more
