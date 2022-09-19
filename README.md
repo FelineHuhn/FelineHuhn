@@ -1,4 +1,4 @@
-# Hello world!
+# Hello world! 👋
 
 My name is _Feline_ and I'm living in Hamburg, Germany.
 
@@ -12,4 +12,4 @@ Currently I'm a **Web-Developement Student** at
 - js
 - & more
 
-https://readme-jokes.vercel.app/api
+![gag](https://readme-jokes.vercel.app/api)
