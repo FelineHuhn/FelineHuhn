@@ -1,4 +1,4 @@
-## Hello world! 👋
+# Hello world! 👋
 
 My name is _Feline Huhn_. I am 29 years old and live in beautiful Hamburg, in the north of Germany. 
 In my job as a city planner I could not give enough space to my creativity until now. Therefore, I quit my job to become a web developer. 
@@ -6,7 +6,7 @@ I am looking forward to variety and new challenges.
 
 <hr>
 
-# Currently I'm a **Web-Developement Student** @ 
+## Currently I'm a **Web-Developement Student** @ 
 
 <img src="https://wordpress.startsteps.org/wp-content/uploads/2022/02/neuefische@2x.png" alt="neue fische image" width="200"/>
 
@@ -22,13 +22,13 @@ I am looking forward to variety and new challenges.
 
 <hr>
 
-# **My personal Interests:**
-🏇 ✈️  ⛷ 🏂 📸 🎤 
+## **My personal Interests:**
+## 🏇 ✈️  ⛷ 🏂 📸 🎤 
 
 
 <hr>
 
-# GitHub Stats:
+## GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=FelineHuhn&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FelineHuhn&theme=vision-friendly-dark&hide_border=false)<br/>
