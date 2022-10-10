@@ -22,6 +22,12 @@ Currently I'm a **Web-Developement Student** @
 
 <hr>
 
+**My personal Interests:**
+🏇 ✈️  ⛷ 🏂 📸 🎤 
+
+
+<hr>
+
 # GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=FelineHuhn&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
