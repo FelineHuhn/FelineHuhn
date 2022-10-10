@@ -1,6 +1,8 @@
 # Hello world! 👋
 
-My name is _Feline_ and I'm living in Hamburg, Germany.
+My name is _Feline Huhn_. I am 29 years old and live in beautiful Hamburg, in the north of Germany. 
+In my job as a city planner I could not give enough space to my creativity until now. Therefore, I quit my job to become a web developer. 
+I am looking forward to variety and new challenges. 
 
 <hr>
 
