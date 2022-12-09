@@ -1,7 +1,6 @@
 # Hello world! 👋
 
-My name is _Feline Huhn_. I am 29 years old and live in beautiful Hamburg, in the north of Germany. 
-In my job as a city planner I could not give enough space to my creativity until now. Therefore, I quit my job to become a web developer. 
+Hey! My name is Feline. I'm 29 years old and come from Hamburg (native). During my ParentHood in 2021, I learned my first web dev basics by myself, which gave me great motivation to leave the civil service as a city planner and become a web dev! 
 I am looking forward to variety and new challenges. 
 
 <hr>
