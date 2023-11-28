@@ -14,10 +14,5 @@
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 - ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 
-## GitHub Stats:
-
-![Feline's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelineHuhn&theme=react&hide_border=false&include_all_commits=true&count_private=true)
-![Feline's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=FelineHuhn&theme=reactk&hide_border=false)
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=FelineHuhn.FelineHuhn)
 
