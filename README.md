@@ -1,6 +1,6 @@
 # _Hey_ 👋 or: _Moin_ ⚓️ (how we say in Hamburg)
 
-🙋🏻‍♀️ My name is Feline, 29 years old and come from Hamburg (native). 
+🙋🏻‍♀️ My name is Feline, 30 years old and come from Hamburg (native). 
 
 💡 During my parental leave I learned my first web dev basics by myself and left the civil service as a city planner to become a web dev! 
 
