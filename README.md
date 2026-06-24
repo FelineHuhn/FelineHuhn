@@ -1,18 +1,19 @@
-# _Hey_ 👋 or: _Moin_ ⚓️ (how we say in Hamburg)
+# Moin from Hamburg ⚓️
 
-🙋🏻‍♀️ My name is Feline, 30 years old and come from Hamburg (native). 
+## From city planner to web dev coach
 
-💡 During my parental leave I learned my first web dev basics by myself and left the civil service as a city planner to become a web dev! 
+> During my first parental leave, I taught myself web development and never looked back.
+> I left the civil service, retrained and have been coaching web development bootcamp students since January 2023.
 
-💻 Now I'm working as a web development coach since January 2023.
+## What I do
 
-## Tech Stack:
+I teach **JavaScript, React, Next.js and MongoDB**: Running sessions, 
+reviewing code, designing workshops and building tools that make the 
+coaching process better.
 
-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-- ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+## Tech stack
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=FelineHuhn.FelineHuhn)
-
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
